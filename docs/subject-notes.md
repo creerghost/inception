@@ -5,6 +5,7 @@
 - Set up a small infrastructure composed of different services under certain rules
 - Whole project should be done in VM
 - Have to use `docker compose`
+
 ### Docker images
 
 - Each image should have the *same name* as corresponding service

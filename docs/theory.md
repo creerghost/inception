@@ -5,6 +5,13 @@
 ## Resources
 
 https://medium.com/@imyzf/inception-3979046d90a0
+https://docs.alpinelinux.org/user-handbook/0.1a/Working/post-install.html
+https://docs.docker.com/build/building/best-practices/
+https://nginx.org/en/docs/beginners_guide.html
+https://www.baeldung.com/linux/daemon-guide
+https://medium.com/@boutnaru/the-linux-process-journey-pid-0-swapper-7868d1131316
+https://medium.com/@boutnaru/the-linux-process-journey-pid-1-init-60765a069f17
+https://dev-aditya.medium.com/pid-1-and-tini-in-docker-why-your-container-ignores-ctrl-c-800b565cb76e
 
 ---
 
